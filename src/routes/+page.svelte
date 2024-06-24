@@ -174,11 +174,11 @@
             Our love expands, forever blessed.
         </p>
 
-        <p class='pt-[1100px] text-l' style="font-family: Georgia;">
+        <p class='pt-[1050px] text-l' style="font-family: Georgia;">
             Through the endless void, where time stands still,<br>
             My love for you, a boundless thrill.
         </p>
-        <p class='pt-[10px] text-l text-black' style="font-family: Georgia;">
+        <p class='pt-[130px] text-l text-black' style="font-family: Georgia;">
             To the edge of space and then beyond,<br>
             My heart with yours eternally bonds.
         </p>
