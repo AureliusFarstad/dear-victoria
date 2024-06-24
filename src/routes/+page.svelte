@@ -183,7 +183,7 @@
             My heart with yours eternally bonds.
         </p>
 
-        <p class='pt-[3500px] text-l text-black' style="font-family: Georgia;">
+        <p class='pt-[3500px] pb-[400px] text-l text-black' style="font-family: Georgia;">
             And back again, through the cosmic sea,<br>
             To the place where you and I will be.<br>
             Our love, a journey without end,<br>
