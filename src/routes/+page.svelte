@@ -122,7 +122,7 @@
     <!-- Stationary Planet Layer -->
     <!-- font: -->
     <div class='absolute top-0 h-[11000px] w-full text-[#A9f9f9] m-0 p-0 justify-center items-center flex-col text-center'>
-        <h1 class='pt-[100px] text-2xl' style="font-family: Georgia;">To the Love of My Life</h1>
+        <h1 class='pt-[100px] text-2xl' style="font-family: Georgia;">To The Love Of My Life</h1>
 
         <!-- Earth -->
         <img src={earth} class='w-[50px] h-[50px] mt-[100px] m-0 mx-auto' alt='earth' />
