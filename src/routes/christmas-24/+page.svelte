@@ -37,7 +37,7 @@
     </div>
 
     <div class="signature">
-        <p>Merry Christmas with lots of cheesy love from Marcus.</p>
+        <p>Merry Christmas with lots of cheesy Christmasy love from Marcus.</p>
     </div>
 </div>
 
